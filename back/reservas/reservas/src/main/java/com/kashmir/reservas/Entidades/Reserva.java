@@ -15,7 +15,9 @@ public class Reserva {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    @Column(name = "fechaHora")
     private LocalDateTime fechaHora;
+    @Column(name = "duracion")
     private int duracion;
 
 

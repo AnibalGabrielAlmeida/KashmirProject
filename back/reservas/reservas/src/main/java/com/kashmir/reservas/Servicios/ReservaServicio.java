@@ -3,6 +3,7 @@ package com.kashmir.reservas.Servicios;
 import com.kashmir.reservas.Entidades.Reserva;
 import com.kashmir.reservas.Repositorios.ReservaRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 
 public class ReservaServicio{
     private final ReservaRepositorio reservaRepositorio;
@@ -10,6 +11,7 @@ public class ReservaServicio{
     public ReservaServicio(ReservaRepositorio reservaRepositorio){
         this.reservaRepositorio = reservaRepositorio;
     }
+    @Transactional
     public Reserva crearReserva(Reserva reserva){
         return reservaRepositorio.save(reserva);
     }

@@ -5,32 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0edc6aa-d895-4f94-be05-566c0e163232" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/BandaControlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/BebidaControlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/CajaControlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/IntegranteBandaControlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/ReservaControlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/VentaBebidasControlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/BandaRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/BebidaRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/CajaRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/IntegranteBandaRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/ReservaRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/VentaBebidasRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BandaServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BebidaServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/CajaServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/IntegranteBandaServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/ReservaServicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/VentaBebidasServicio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Banda.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Banda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Bebidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Bebida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Bebida.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Bebida.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Caja.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Caja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/IntegranteBanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/IntegranteBanda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Reserva.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/VentaBebidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/VentaBebidas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservas/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BandaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BandaServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BebidaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BebidaServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/CajaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/CajaServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/IntegranteBandaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/IntegranteBandaServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/ReservaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/ReservaServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/VentaBebidasServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/VentaBebidasServicio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1693953497335</updated>
     </task>
+    <task id="LOCAL-00001" summary="Agregada conexion con DB, Agregado create en servicios de todas las clases, falta probar.">
+      <option name="closed" value="true" />
+      <created>1693959323241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693959323241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregada conexion con DB, Agregado create en servicios de todas las clases, falta probar." />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregada conexion con DB, Agregado create en servicios de todas las clases, falta probar." />
   </component>
 </project>

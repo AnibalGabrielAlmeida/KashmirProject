@@ -14,7 +14,9 @@ public class VentaBebidas {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    @Column(name = "fecha")
     private LocalDateTime fecha;
+    @Column(name = "cantidad")
     private int cantidad;
     /*asociacion bebida y caja*/
 }
