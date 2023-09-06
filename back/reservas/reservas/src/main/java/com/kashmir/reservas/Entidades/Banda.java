@@ -1,5 +1,6 @@
 package com.kashmir.reservas.Entidades;
 
+import jakarta.persistence.*;
 import lombok.*;
 
 @NoArgsConstructor
@@ -7,7 +8,10 @@ import lombok.*;
 @Data
 @EqualsAndHashCode
 @Builder
+@Entity
 public class Banda {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nombre;
     private String contacto;

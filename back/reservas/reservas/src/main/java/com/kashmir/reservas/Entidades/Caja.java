@@ -1,5 +1,6 @@
 package com.kashmir.reservas.Entidades;
 
+import jakarta.persistence.*;
 import lombok.*;
 
 import java.time.LocalDateTime;
@@ -8,6 +9,7 @@ import java.time.LocalDateTime;
 @Data
 @EqualsAndHashCode
 @Builder
+@Entity
 public class Caja {
     private LocalDateTime fechaTransaccion;
     private Boolean ingreso=true;

@@ -1,5 +1,6 @@
 package com.kashmir.reservas.Entidades;
 
+import jakarta.persistence.*;
 import lombok.*;
 
 import java.time.LocalDateTime;
@@ -8,7 +9,10 @@ import java.time.LocalDateTime;
 @Data
 @EqualsAndHashCode
 @Builder
+@Entity
 public class VentaBebidas {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private LocalDateTime fecha;
     private int cantidad;

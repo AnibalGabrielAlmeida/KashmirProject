@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0edc6aa-d895-4f94-be05-566c0e163232" name="Changes" comment="" />
+    <list default="true" id="d0edc6aa-d895-4f94-be05-566c0e163232" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/BandaControlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/BebidaControlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/CajaControlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/IntegranteBandaControlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/ReservaControlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Controladores/VentaBebidasControlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/BandaRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/BebidaRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/CajaRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/IntegranteBandaRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/ReservaRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Repositorios/VentaBebidasRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BandaServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BebidaServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/CajaServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/IntegranteBandaServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/ReservaServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/VentaBebidasServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Banda.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Banda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Bebidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Bebida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Caja.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Caja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/IntegranteBanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/IntegranteBanda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/VentaBebidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/VentaBebidas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +41,23 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2UzrxJigWmh6xSp7c7sYsTcwTW3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,11 +65,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "back"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kashmir.reservas.Repositorios" />
+      <recent name="com.kashmir.reservas.Controladores" />
+      <recent name="com.kashmir.reservas.Servicios" />
       <recent name="com.kashmir.reservas.Entidades" />
     </key>
   </component>
