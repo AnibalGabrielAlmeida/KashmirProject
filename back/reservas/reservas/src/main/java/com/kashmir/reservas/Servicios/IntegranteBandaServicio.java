@@ -3,8 +3,9 @@ package com.kashmir.reservas.Servicios;
 import com.kashmir.reservas.Entidades.IntegranteBanda;
 import com.kashmir.reservas.Repositorios.IntegranteBandaRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
+@Service
 public class IntegranteBandaServicio {
     private final IntegranteBandaRepositorio integranteBandaRepositorio;
     @Autowired

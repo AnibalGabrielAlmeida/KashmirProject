@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0edc6aa-d895-4f94-be05-566c0e163232" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Banda.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Banda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Bebida.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Bebida.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Caja.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Caja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/IntegranteBanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/IntegranteBanda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/Reserva.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/VentaBebidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Entidades/VentaBebidas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/ReservasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/ReservasApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BandaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BandaServicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BebidaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/BebidaServicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/CajaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/CajaServicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/IntegranteBandaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/IntegranteBandaServicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/ReservaServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/ReservaServicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/VentaBebidasServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/java/com/kashmir/reservas/Servicios/VentaBebidasServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservas/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reservas/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "back"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;back&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kashmir.reservas.Repositorios" />
@@ -62,6 +63,26 @@
       <recent name="com.kashmir.reservas.Servicios" />
       <recent name="com.kashmir.reservas.Entidades" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReservasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kashmir.reservas.ReservasApplication" />
+      <module name="reservas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kashmir.reservas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReservasApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,11 +101,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693959323241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Agregado nombre de columnas">
+      <option name="closed" value="true" />
+      <created>1693959849796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693959849796</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Agregada conexion con DB, Agregado create en servicios de todas las clases, falta probar." />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregada conexion con DB, Agregado create en servicios de todas las clases, falta probar." />
+    <MESSAGE value="Agregado nombre de columnas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregado nombre de columnas" />
   </component>
 </project>

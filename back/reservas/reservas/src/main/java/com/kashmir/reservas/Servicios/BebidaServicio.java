@@ -3,8 +3,9 @@ package com.kashmir.reservas.Servicios;
 import com.kashmir.reservas.Entidades.Bebida;
 import com.kashmir.reservas.Repositorios.BebidaRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
+@Service
 public class BebidaServicio {
     private final BebidaRepositorio bebidaRepositorio;
     @Autowired
