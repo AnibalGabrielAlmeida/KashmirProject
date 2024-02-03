@@ -19,7 +19,7 @@ Este proyecto tiene como objetivo facilitar la organización de reservas de hora
 
 ## Instalación
 
-[Instrucciones detalladas sobre cómo instalar y ejecutar el proyecto localmente. Incluyendo requisitos previos y configuraciones necesarias.]
+No aplicable por el momento, en su estadios tempranos.
 
 ## Uso
 
