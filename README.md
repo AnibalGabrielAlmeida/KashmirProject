@@ -1,83 +1,81 @@
-# Gestor de Reservas para Sala de Ensayo
+# Rehearsal Room Reservation Manager
 
-## Descripción
+## Description
 
-Este proyecto tiene como objetivo facilitar la organización de reservas de horarios disponibles para una sala de ensayo. Los clientes pueden reservar un horario después de realizar un pago a través de una billetera virtual. La interfaz sencilla muestra los horarios disponibles y el precio de la reserva según la cantidad de horas seleccionadas.
+This project aims to facilitate the organization of reservations for available time slots in a rehearsal studio. Clients can book a time slot after making a payment through a virtual wallet. The simple interface displays available time slots and the reservation price based on the selected number of hours.
 
-### Características Principales
+## Project Status
 
-- Reserva de horarios con pago a través de billetera virtual.
-- Interfaz sencilla para la selección de horarios y cálculo de precios.
-- Datos obligatorios para la primera reserva: nombre de banda, número de contacto, y nombre de la persona encargada.
-- Opción de crear una cuenta para evitar la recarga de datos en futuras reservas.
+In the initial development phase, this project is taking its first steps.
 
-## Tecnologías Utilizadas
+### Key Features
+
+- Reservation of time slots with payment through a virtual wallet.
+- Simple interface for selecting time slots and calculating prices.
+- Mandatory data for the first reservation: band name, contact number, and responsible person's name.
+- Option to create an account to avoid data re-entry for future reservations.
+
+## Technologies Used
 
 - **Backend:** Java, Spring Boot
-- **Base de Datos:** MariaDB
-- **Frontend:** HTML, CSS (JavaScript, React o Vue.js en desarrollo futuro)
+- **Database:** MariaDB
+- **Frontend:** React
 
-## Instalación
+## Installation
 
-No aplicable por el momento, en su estadios tempranos.
+Not applicable at the moment, in its early stages.
 
-## Uso
+## Usage
 
-La aplicación de Gestor de Reservas para Sala de Ensayo está diseñada para brindar a las bandas y artistas una manera sencilla y eficiente de reservar horarios de ensayo en tu sala. A continuación, se detalla cómo utilizar la aplicación desde la perspectiva del usuario:
+The Rehearsal Room Reservation Manager application is designed to provide bands and artists with a simple and efficient way to book rehearsal time slots in your studio. Below is a guide on how to use the application from the user's perspective:
 
-### 1. Reserva de Horarios
+### 1. Reservation of Time Slots
 
-1.1 **Seleccionar Horario:**
-   - Explora la interfaz para visualizar los horarios disponibles.
-   - Selecciona el horario deseado y la duración de la reserva.
+1.1 **Select Time Slot:**
+   - Explore the interface to view available time slots.
+   - Select the desired time slot and the reservation duration.
 
-1.2 **Proporcionar Datos y Realizar Pago:**
-   - Proporciona los siguientes datos obligatorios:
-      - Nombre de la banda.
-      - Número de contacto.
-      - Nombre de la persona encargada de la reserva.
-   - Procede al proceso de pago a través de la billetera virtual integrada (usando una API de pasarela de pago como Mercado Pago u otra similar).
+1.2 **Provide Data and Make Payment:**
+   - Provide the following mandatory data:
+      - Band name.
+      - Contact number.
+      - Name of the person in charge of the reservation.
+   - Proceed to the payment process through the integrated virtual wallet (using a payment gateway API like Mercado Pago or a similar one).
 
-### 2. Registro de Banda (Primera Reserva)
+### 2. Band Registration (First Reservation)
 
-2.1 **Opción de Crear Cuenta:**
-   - Para facilitar futuras reservas, considera crear una cuenta para evitar la recarga de datos en cada reserva.
+2.1 **Option to Create an Account:**
+   - To facilitate future reservations, consider creating an account to avoid data re-entry for each reservation.
 
-### 3. Administración de Reservas
+### 3. Reservation Management
 
-3.1 **Visualizar Historial:**
-   - Accede a tu historial de reservas para obtener un registro detallado de todas las sesiones de ensayo.
+3.1 **View History:**
+   - Access your reservation history for a detailed record of all rehearsal sessions.
 
-3.2 **Realizar Cambios:**
-   - Modifica o cancela reservas según sea necesario.
+3.2 **Make Changes:**
+   - Modify or cancel reservations as needed.
 
-### 4. Administrador (Acceso Restringido)
+### 4. Administrator (Restricted Access)
 
-4.1 **Gestión de Caja:**
-   - Registra ingresos y egresos automáticamente con cada reserva y pago.
-   - Lleva un conteo de gastos como luz, internet y posibles arreglos.
+4.1 **Cash Management:**
+   - Automatically record income and expenses with each reservation and payment.
+   - Keep track of expenses such as electricity, internet, and possible repairs.
 
-4.2 **CRUD de Reservas y Clientes:**
-   - Añade, actualiza o elimina reservas y clientes según sea necesario.
-   - Útil para situaciones en las que la banda prefiere registrar información presencialmente o realiza reservas por otros medios.
+4.2 **CRUD of Reservations and Clients:**
+   - Add, update, or delete reservations and clients as needed.
+   - Useful for situations where the band prefers to record information in person or makes reservations through other means.
 
-### 5. Notificaciones por WhatsApp
+### 5. WhatsApp Notifications
 
-5.1 **Configuración de Notificaciones:**
-   - Configura la opción para recibir notificaciones por WhatsApp.
-   - Recibe recordatorios de reserva y actualizaciones directamente en tu dispositivo móvil.
-
-## Estado del Proyecto
-
-En la fase inicial del desarrollo, este proyecto está en sus primeros pasos.
-
-## Autor
-
-El proyecto es de autoria propia
-
-## Licencia
-
-Este proyecto es de autoría propia, por el momento, no está bajo ninguna licencia específica.
+5.1 **Notification Settings:**
+   - Configure the option to receive notifications via WhatsApp.
+   - Receive reservation reminders and updates directly on your mobile device.
 
 
+## Author
 
+The project is self-authored.
+
+## License
+
+This project is self-authored and is currently not under any specific license.
